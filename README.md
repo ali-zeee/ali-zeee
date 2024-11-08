@@ -1,7 +1,8 @@
-## Hi there 👋
+Hi there
+I am a Data Engineer interested in Data Analytics and Machine Learning!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working as a Cloud Engineer
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 <!--
 **ali-zeee/ali-zeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
