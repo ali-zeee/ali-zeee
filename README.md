@@ -19,6 +19,9 @@ DynamoDB, RDS, Aurora, SNS.
 Awards 📜
 
 AWS Certified Solution Architect - Associate 
-AWS Certified Developer - Associate 
+
+AWS Certified Developer - Associate
+
 Trainings: Data Lake Training
+
 Coursera: Machine Learning
