@@ -7,9 +7,7 @@ Proficient in drawing out business value mainly by using Cloud Data Engineering 
 Technical Skills 🛠️
 
 Cloud Platforms:Amazon Web Services (AWS), Microsoft Azure.
-
 Frameworks: Serverless, MVC, ASP.NET, WPF, WCF.
-
 Languages: Python, C#, NodeJS, JSON, XML.
 
 Cloud Services 🛠️
@@ -20,7 +18,7 @@ DynamoDB, RDS, Aurora, SNS.
 
 Awards 📜
 
-AWS Certified Solution Architect - Associate 
+AWS Certified Solution Architect - Associate
 AWS Certified Developer - Associate
 Trainings: Data Lake Training
 Coursera: Machine Learning
