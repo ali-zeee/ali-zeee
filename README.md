@@ -1,14 +1,14 @@
 Hey, I'm Ali!
 
 About me 
-I'm an experienced Cloud Data Engineer with a proven track record of 7+ years.
-Proficient in drawing out business value mainly by using Cloud Data Engineering tools (i:e.,CI/CD, Jenkins, Git, Atlassian Agile, Postman, BitBucket, Terraform)
+I'm an experienced Cloud Data Engineer with a proven track record of 6+ years.
+Proficient in drawing out business value mainly by using Data Engineering tools (i:e., Pandas, PyArrow, Appache Airflow, Dask, Great Expectations,ETL/ELT, dbt)
 
 Technical Skills 🛠️
 
 Cloud Platforms:Amazon Web Services (AWS), Microsoft Azure.
 Frameworks: Serverless, MVC, ASP.NET, WPF, WCF.
-Languages: Python, C#, NodeJS, JSON, XML.
+Languages: Python, C#, NodeJS, JSON, XML, SQL.
 
 Cloud Services 🛠️
 
